@@ -329,7 +329,11 @@
   <entry id="CVE-2017-14016">
     <vuln:cve-id>CVE-2017-14016</vuln:cve-id>
     <vuln:published-datetime>2017-11-06T17:29:00.240-05:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-11-06T17:29:00.240-05:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-08T21:29:01.793-05:00</vuln:last-modified-datetime>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>BID</vuln:source>
+      <vuln:reference href="http://www.securityfocus.com/bid/101685" xml:lang="en">101685</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>MISC</vuln:source>
       <vuln:reference href="https://ics-cert.us-cert.gov/advisories/ICSA-17-306-02" xml:lang="en">https://ics-cert.us-cert.gov/advisories/ICSA-17-306-02</vuln:reference>
@@ -423,7 +427,11 @@
   <entry id="CVE-2017-14023">
     <vuln:cve-id>CVE-2017-14023</vuln:cve-id>
     <vuln:published-datetime>2017-11-06T17:29:00.270-05:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-11-07T21:29:02.740-05:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-08T21:29:01.840-05:00</vuln:last-modified-datetime>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>BID</vuln:source>
+      <vuln:reference href="http://www.securityfocus.com/bid/101680" xml:lang="en">101680</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>MISC</vuln:source>
       <vuln:reference href="https://ics-cert.us-cert.gov/advisories/ICSA-17-306-01" xml:lang="en">https://ics-cert.us-cert.gov/advisories/ICSA-17-306-01</vuln:reference>
@@ -1608,7 +1616,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-14064</vuln:cve-id>
     <vuln:published-datetime>2017-08-31T13:29:00.183-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-18T21:30:22.737-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-08T21:29:01.903-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>7.5</cvss:score>
@@ -1633,6 +1641,10 @@
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>CONFIRM</vuln:source>
       <vuln:reference href="https://www.ruby-lang.org/en/news/2017/09/14/ruby-2-3-5-released/" xml:lang="en">https://www.ruby-lang.org/en/news/2017/09/14/ruby-2-3-5-released/</vuln:reference>
+    </vuln:references>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-3966" xml:lang="en">DSA-3966</vuln:reference>
     </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>GENTOO</vuln:source>
@@ -11287,7 +11299,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-14351</vuln:cve-id>
     <vuln:published-datetime>2017-09-29T21:29:01.523-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-05T14:03:41.667-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-10T21:29:00.490-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>7.5</cvss:score>
@@ -11300,6 +11312,10 @@
         <cvss:source>http://nvd.nist.gov</cvss:source>
       </cvss:base_metrics>
     </vuln:cvss>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>MISC</vuln:source>
+      <vuln:reference href="https://www.tenable.com/security/research/tra-2017-32" xml:lang="en">https://www.tenable.com/security/research/tra-2017-32</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="VENDOR_ADVISORY">
       <vuln:source>CONFIRM</vuln:source>
       <vuln:reference href="https://softwaresupport.hpe.com/km/KM02968622" xml:lang="en">https://softwaresupport.hpe.com/km/KM02968622</vuln:reference>
@@ -11378,7 +11394,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-14353</vuln:cve-id>
     <vuln:published-datetime>2017-10-05T11:29:00.213-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-14T21:29:03.353-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-10T21:29:00.537-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>6.8</cvss:score>
@@ -11395,6 +11411,10 @@
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>BID</vuln:source>
       <vuln:reference href="http://www.securityfocus.com/bid/101251" xml:lang="en">101251</vuln:reference>
+    </vuln:references>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>MISC</vuln:source>
+      <vuln:reference href="https://www.tenable.com/security/research/tra-2017-32" xml:lang="en">https://www.tenable.com/security/research/tra-2017-32</vuln:reference>
     </vuln:references>
     <vuln:references xml:lang="en" reference_type="VENDOR_ADVISORY">
       <vuln:source>AUSCERT</vuln:source>
@@ -11433,7 +11453,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-14354</vuln:cve-id>
     <vuln:published-datetime>2017-10-05T11:29:00.277-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-14T21:29:03.417-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-10T21:29:00.600-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>4.3</cvss:score>
@@ -11450,6 +11470,10 @@
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>BID</vuln:source>
       <vuln:reference href="http://www.securityfocus.com/bid/101254" xml:lang="en">101254</vuln:reference>
+    </vuln:references>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>MISC</vuln:source>
+      <vuln:reference href="https://www.tenable.com/security/research/tra-2017-32" xml:lang="en">https://www.tenable.com/security/research/tra-2017-32</vuln:reference>
     </vuln:references>
     <vuln:references xml:lang="en" reference_type="VENDOR_ADVISORY">
       <vuln:source>AUSCERT</vuln:source>
@@ -19086,7 +19110,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-14635</vuln:cve-id>
     <vuln:published-datetime>2017-09-21T09:29:00.267-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-04T09:25:14.847-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-08T21:29:01.980-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>6.5</cvss:score>
@@ -19100,6 +19124,10 @@
       </cvss:base_metrics>
     </vuln:cvss>
     <vuln:cwe id="CWE-264" />
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-4021" xml:lang="en">DSA-4021</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="VENDOR_ADVISORY">
       <vuln:source>CONFIRM</vuln:source>
       <vuln:reference href="https://www.otrs.com/security-advisory-2017-04-security-update-otrs-versions/" xml:lang="en">https://www.otrs.com/security-advisory-2017-04-security-update-otrs-versions/</vuln:reference>
@@ -20858,7 +20886,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-14718</vuln:cve-id>
     <vuln:published-datetime>2017-09-23T16:29:00.247-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-15T21:29:00.387-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:17.717-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>4.3</cvss:score>
@@ -20872,6 +20900,10 @@
       </cvss:base_metrics>
     </vuln:cvss>
     <vuln:cwe id="CWE-79" />
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-3997" xml:lang="en">DSA-3997</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>SECTRACK</vuln:source>
       <vuln:reference href="http://www.securitytracker.com/id/1039553" xml:lang="en">1039553</vuln:reference>
@@ -21303,7 +21335,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-14719</vuln:cve-id>
     <vuln:published-datetime>2017-09-23T16:29:00.280-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-15T21:29:00.483-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:17.793-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>5.0</cvss:score>
@@ -21317,6 +21349,10 @@
       </cvss:base_metrics>
     </vuln:cvss>
     <vuln:cwe id="CWE-22" />
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-3997" xml:lang="en">DSA-3997</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>SECTRACK</vuln:source>
       <vuln:reference href="http://www.securitytracker.com/id/1039553" xml:lang="en">1039553</vuln:reference>
@@ -21350,7 +21386,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-14720</vuln:cve-id>
     <vuln:published-datetime>2017-09-23T16:29:00.310-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-15T21:29:00.547-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:17.887-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>4.3</cvss:score>
@@ -21364,6 +21400,10 @@
       </cvss:base_metrics>
     </vuln:cvss>
     <vuln:cwe id="CWE-79" />
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-3997" xml:lang="en">DSA-3997</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>SECTRACK</vuln:source>
       <vuln:reference href="http://www.securitytracker.com/id/1039553" xml:lang="en">1039553</vuln:reference>
@@ -21393,7 +21433,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-14721</vuln:cve-id>
     <vuln:published-datetime>2017-09-23T16:29:00.343-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-15T21:29:00.607-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:17.950-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>4.3</cvss:score>
@@ -21407,6 +21447,10 @@
       </cvss:base_metrics>
     </vuln:cvss>
     <vuln:cwe id="CWE-79" />
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-3997" xml:lang="en">DSA-3997</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>SECTRACK</vuln:source>
       <vuln:reference href="http://www.securitytracker.com/id/1039553" xml:lang="en">1039553</vuln:reference>
@@ -21450,7 +21494,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-14722</vuln:cve-id>
     <vuln:published-datetime>2017-09-23T16:29:00.390-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-15T21:29:00.653-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:18.010-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>5.0</cvss:score>
@@ -21464,6 +21508,10 @@
       </cvss:base_metrics>
     </vuln:cvss>
     <vuln:cwe id="CWE-22" />
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-3997" xml:lang="en">DSA-3997</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>SECTRACK</vuln:source>
       <vuln:reference href="http://www.securitytracker.com/id/1039553" xml:lang="en">1039553</vuln:reference>
@@ -21497,7 +21545,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-14723</vuln:cve-id>
     <vuln:published-datetime>2017-09-23T16:29:00.420-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-15T21:29:00.717-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:18.077-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>7.5</cvss:score>
@@ -21511,6 +21559,10 @@
       </cvss:base_metrics>
     </vuln:cvss>
     <vuln:cwe id="CWE-89" />
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-3997" xml:lang="en">DSA-3997</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>SECTRACK</vuln:source>
       <vuln:reference href="http://www.securitytracker.com/id/1039553" xml:lang="en">1039553</vuln:reference>
@@ -21560,7 +21612,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-14724</vuln:cve-id>
     <vuln:published-datetime>2017-09-23T16:29:00.467-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-15T21:29:00.780-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:18.120-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>4.3</cvss:score>
@@ -21574,6 +21626,10 @@
       </cvss:base_metrics>
     </vuln:cvss>
     <vuln:cwe id="CWE-79" />
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-3997" xml:lang="en">DSA-3997</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>SECTRACK</vuln:source>
       <vuln:reference href="http://www.securitytracker.com/id/1039553" xml:lang="en">1039553</vuln:reference>
@@ -21607,7 +21663,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-14725</vuln:cve-id>
     <vuln:published-datetime>2017-09-23T16:29:00.513-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-15T21:29:00.843-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:18.167-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>4.9</cvss:score>
@@ -21621,6 +21677,10 @@
       </cvss:base_metrics>
     </vuln:cvss>
     <vuln:cwe id="CWE-601" />
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-3997" xml:lang="en">DSA-3997</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>SECTRACK</vuln:source>
       <vuln:reference href="http://www.securitytracker.com/id/1039553" xml:lang="en">1039553</vuln:reference>
@@ -21654,7 +21714,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-14726</vuln:cve-id>
     <vuln:published-datetime>2017-09-23T16:29:00.547-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-15T21:29:00.887-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:18.230-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>4.3</cvss:score>
@@ -21668,6 +21728,10 @@
       </cvss:base_metrics>
     </vuln:cvss>
     <vuln:cwe id="CWE-79" />
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-3997" xml:lang="en">DSA-3997</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>MISC</vuln:source>
       <vuln:reference href="https://wpvulndb.com/vulnerabilities/8914" xml:lang="en">https://wpvulndb.com/vulnerabilities/8914</vuln:reference>
@@ -21987,15 +22051,35 @@
   <entry id="CVE-2017-14735">
     <vuln:vulnerable-configuration id="http://nvd.nist.gov/">
       <cpe-lang:logical-test operator="OR" negate="false">
-        <cpe-lang:fact-ref name="cpe:/a:antisamy_project:antisamy:1.5.7" />
+        <cpe-lang:fact-ref name="cpe:/a:antisamy_project:antisamy:1.4.1" />
+        <cpe-lang:fact-ref name="cpe:/a:antisamy_project:antisamy:1.4.2" />
+        <cpe-lang:fact-ref name="cpe:/a:antisamy_project:antisamy:1.4.3" />
+        <cpe-lang:fact-ref name="cpe:/a:antisamy_project:antisamy:1.4.4" />
+        <cpe-lang:fact-ref name="cpe:/a:antisamy_project:antisamy:1.4.5" />
+        <cpe-lang:fact-ref name="cpe:/a:antisamy_project:antisamy:1.5" />
+        <cpe-lang:fact-ref name="cpe:/a:antisamy_project:antisamy:1.5.1" />
+        <cpe-lang:fact-ref name="cpe:/a:antisamy_project:antisamy:1.5.2" />
+        <cpe-lang:fact-ref name="cpe:/a:antisamy_project:antisamy:1.5.3" />
+        <cpe-lang:fact-ref name="cpe:/a:antisamy_project:antisamy:1.5.5" />
+        <cpe-lang:fact-ref name="cpe:/a:antisamy_project:antisamy:1.5.6" />
       </cpe-lang:logical-test>
     </vuln:vulnerable-configuration>
     <vuln:vulnerable-software-list>
-      <vuln:product>cpe:/a:antisamy_project:antisamy:1.5.7</vuln:product>
+      <vuln:product>cpe:/a:antisamy_project:antisamy:1.4.1</vuln:product>
+      <vuln:product>cpe:/a:antisamy_project:antisamy:1.4.2</vuln:product>
+      <vuln:product>cpe:/a:antisamy_project:antisamy:1.4.3</vuln:product>
+      <vuln:product>cpe:/a:antisamy_project:antisamy:1.4.4</vuln:product>
+      <vuln:product>cpe:/a:antisamy_project:antisamy:1.4.5</vuln:product>
+      <vuln:product>cpe:/a:antisamy_project:antisamy:1.5.1</vuln:product>
+      <vuln:product>cpe:/a:antisamy_project:antisamy:1.5.2</vuln:product>
+      <vuln:product>cpe:/a:antisamy_project:antisamy:1.5.3</vuln:product>
+      <vuln:product>cpe:/a:antisamy_project:antisamy:1.5.5</vuln:product>
+      <vuln:product>cpe:/a:antisamy_project:antisamy:1.5.6</vuln:product>
+      <vuln:product>cpe:/a:antisamy_project:antisamy:1.5</vuln:product>
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-14735</vuln:cve-id>
     <vuln:published-datetime>2017-09-25T17:29:01.147-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-06T21:29:02.257-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T11:38:48.463-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>4.3</cvss:score>
@@ -25877,7 +25961,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-14990</vuln:cve-id>
     <vuln:published-datetime>2017-10-02T21:29:03.013-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-13T21:29:00.383-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:18.277-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>4.0</cvss:score>
@@ -25891,6 +25975,10 @@
       </cvss:base_metrics>
     </vuln:cvss>
     <vuln:cwe id="CWE-200" />
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-3997" xml:lang="en">DSA-3997</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>SECTRACK</vuln:source>
       <vuln:reference href="http://www.securitytracker.com/id/1039554" xml:lang="en">1039554</vuln:reference>

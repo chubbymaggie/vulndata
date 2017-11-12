@@ -9079,7 +9079,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-3231</vuln:cve-id>
     <vuln:published-datetime>2017-01-27T17:59:02.130-05:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-11-03T21:29:37.740-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:19.153-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>4.3</cvss:score>
@@ -9096,6 +9096,10 @@
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>BID</vuln:source>
       <vuln:reference href="http://www.securityfocus.com/bid/95563" xml:lang="en">95563</vuln:reference>
+    </vuln:references>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>CONFIRM</vuln:source>
+      <vuln:reference href="https://security.netapp.com/advisory/ntap-20170119-0001/" xml:lang="en">https://security.netapp.com/advisory/ntap-20170119-0001/</vuln:reference>
     </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>DEBIAN</vuln:source>
@@ -9518,7 +9522,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-3241</vuln:cve-id>
     <vuln:published-datetime>2017-01-27T17:59:02.333-05:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-11-03T21:29:37.867-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:19.217-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>6.8</cvss:score>
@@ -9535,6 +9539,10 @@
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>BID</vuln:source>
       <vuln:reference href="http://www.securityfocus.com/bid/95488" xml:lang="en">95488</vuln:reference>
+    </vuln:references>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>CONFIRM</vuln:source>
+      <vuln:reference href="https://security.netapp.com/advisory/ntap-20170119-0001/" xml:lang="en">https://security.netapp.com/advisory/ntap-20170119-0001/</vuln:reference>
     </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>DEBIAN</vuln:source>
@@ -10028,7 +10036,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-3252</vuln:cve-id>
     <vuln:published-datetime>2017-01-27T17:59:02.693-05:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-11-03T21:29:38.070-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:19.277-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>2.1</cvss:score>
@@ -10041,6 +10049,10 @@
         <cvss:source>http://nvd.nist.gov</cvss:source>
       </cvss:base_metrics>
     </vuln:cvss>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>CONFIRM</vuln:source>
+      <vuln:reference href="https://security.netapp.com/advisory/ntap-20170119-0001/" xml:lang="en">https://security.netapp.com/advisory/ntap-20170119-0001/</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>DEBIAN</vuln:source>
       <vuln:reference href="http://www.debian.org/security/2017/dsa-3782" xml:lang="en">DSA-3782</vuln:reference>
@@ -10094,7 +10106,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-3253</vuln:cve-id>
     <vuln:published-datetime>2017-01-27T17:59:02.727-05:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-11-03T21:29:38.117-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:19.357-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>5.0</cvss:score>
@@ -10107,6 +10119,10 @@
         <cvss:source>http://nvd.nist.gov</cvss:source>
       </cvss:base_metrics>
     </vuln:cvss>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>CONFIRM</vuln:source>
+      <vuln:reference href="https://security.netapp.com/advisory/ntap-20170119-0001/" xml:lang="en">https://security.netapp.com/advisory/ntap-20170119-0001/</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>DEBIAN</vuln:source>
       <vuln:reference href="http://www.debian.org/security/2017/dsa-3782" xml:lang="en">DSA-3782</vuln:reference>
@@ -10387,7 +10403,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-3259</vuln:cve-id>
     <vuln:published-datetime>2017-01-27T17:59:02.880-05:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-02-10T21:59:05.107-05:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:19.403-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>4.3</cvss:score>
@@ -10400,6 +10416,10 @@
         <cvss:source>http://nvd.nist.gov</cvss:source>
       </cvss:base_metrics>
     </vuln:cvss>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>CONFIRM</vuln:source>
+      <vuln:reference href="https://security.netapp.com/advisory/ntap-20170119-0001/" xml:lang="en">https://security.netapp.com/advisory/ntap-20170119-0001/</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>GENTOO</vuln:source>
       <vuln:reference href="https://security.gentoo.org/glsa/201701-65" xml:lang="en">GLSA-201701-65</vuln:reference>
@@ -10435,7 +10455,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-3260</vuln:cve-id>
     <vuln:published-datetime>2017-01-27T17:59:02.927-05:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-11-03T21:29:38.273-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:19.467-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>5.1</cvss:score>
@@ -10451,6 +10471,10 @@
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>BID</vuln:source>
       <vuln:reference href="http://www.securityfocus.com/bid/95576" xml:lang="en">95576</vuln:reference>
+    </vuln:references>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>CONFIRM</vuln:source>
+      <vuln:reference href="https://security.netapp.com/advisory/ntap-20170119-0001/" xml:lang="en">https://security.netapp.com/advisory/ntap-20170119-0001/</vuln:reference>
     </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>DEBIAN</vuln:source>
@@ -10499,7 +10523,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-3261</vuln:cve-id>
     <vuln:published-datetime>2017-01-27T17:59:02.960-05:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-11-03T21:29:38.320-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:19.527-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>4.3</cvss:score>
@@ -10512,6 +10536,10 @@
         <cvss:source>http://nvd.nist.gov</cvss:source>
       </cvss:base_metrics>
     </vuln:cvss>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>CONFIRM</vuln:source>
+      <vuln:reference href="https://security.netapp.com/advisory/ntap-20170119-0001/" xml:lang="en">https://security.netapp.com/advisory/ntap-20170119-0001/</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>DEBIAN</vuln:source>
       <vuln:reference href="http://www.debian.org/security/2017/dsa-3782" xml:lang="en">DSA-3782</vuln:reference>
@@ -10551,7 +10579,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-3262</vuln:cve-id>
     <vuln:published-datetime>2017-01-27T17:59:02.990-05:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-02-10T21:59:05.293-05:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:19.590-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>5.0</cvss:score>
@@ -10565,6 +10593,10 @@
       </cvss:base_metrics>
     </vuln:cvss>
     <vuln:cwe id="CWE-284" />
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>CONFIRM</vuln:source>
+      <vuln:reference href="https://security.netapp.com/advisory/ntap-20170119-0001/" xml:lang="en">https://security.netapp.com/advisory/ntap-20170119-0001/</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>GENTOO</vuln:source>
       <vuln:reference href="https://security.gentoo.org/glsa/201701-65" xml:lang="en">GLSA-201701-65</vuln:reference>
@@ -10968,7 +11000,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-3272</vuln:cve-id>
     <vuln:published-datetime>2017-01-27T17:59:03.337-05:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-11-03T21:29:38.460-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:19.653-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>6.8</cvss:score>
@@ -10981,6 +11013,10 @@
         <cvss:source>http://nvd.nist.gov</cvss:source>
       </cvss:base_metrics>
     </vuln:cvss>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>CONFIRM</vuln:source>
+      <vuln:reference href="https://security.netapp.com/advisory/ntap-20170119-0001/" xml:lang="en">https://security.netapp.com/advisory/ntap-20170119-0001/</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>DEBIAN</vuln:source>
       <vuln:reference href="http://www.debian.org/security/2017/dsa-3782" xml:lang="en">DSA-3782</vuln:reference>
@@ -11794,7 +11830,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-3289</vuln:cve-id>
     <vuln:published-datetime>2017-01-27T17:59:03.850-05:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-11-03T21:29:38.507-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:19.700-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>6.8</cvss:score>
@@ -11810,6 +11846,10 @@
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>BID</vuln:source>
       <vuln:reference href="http://www.securityfocus.com/bid/95525" xml:lang="en">95525</vuln:reference>
+    </vuln:references>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>CONFIRM</vuln:source>
+      <vuln:reference href="https://security.netapp.com/advisory/ntap-20170119-0001/" xml:lang="en">https://security.netapp.com/advisory/ntap-20170119-0001/</vuln:reference>
     </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>DEBIAN</vuln:source>
@@ -27009,7 +27049,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-3636</vuln:cve-id>
     <vuln:published-datetime>2017-08-08T11:29:08.070-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-11-07T21:29:03.693-05:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-08T21:29:02.310-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>4.6</cvss:score>
@@ -27030,6 +27070,10 @@
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>DEBIAN</vuln:source>
       <vuln:reference href="http://www.debian.org/security/2017/dsa-3944" xml:lang="en">DSA-3944</vuln:reference>
+    </vuln:references>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-3955" xml:lang="en">DSA-3955</vuln:reference>
     </vuln:references>
     <vuln:references xml:lang="en" reference_type="VENDOR_ADVISORY">
       <vuln:source>BID</vuln:source>
@@ -27216,7 +27260,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-3641</vuln:cve-id>
     <vuln:published-datetime>2017-08-08T11:29:08.337-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-11-07T21:29:03.740-05:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-08T21:29:02.387-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>4.0</cvss:score>
@@ -27237,6 +27281,10 @@
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>DEBIAN</vuln:source>
       <vuln:reference href="http://www.debian.org/security/2017/dsa-3944" xml:lang="en">DSA-3944</vuln:reference>
+    </vuln:references>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-3955" xml:lang="en">DSA-3955</vuln:reference>
     </vuln:references>
     <vuln:references xml:lang="en" reference_type="VENDOR_ADVISORY">
       <vuln:source>BID</vuln:source>
@@ -27724,7 +27772,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-3653</vuln:cve-id>
     <vuln:published-datetime>2017-08-08T11:29:08.757-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-11-07T21:29:03.943-05:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-08T21:29:02.433-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>3.5</cvss:score>
@@ -27745,6 +27793,10 @@
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>DEBIAN</vuln:source>
       <vuln:reference href="http://www.debian.org/security/2017/dsa-3944" xml:lang="en">DSA-3944</vuln:reference>
+    </vuln:references>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-3955" xml:lang="en">DSA-3955</vuln:reference>
     </vuln:references>
     <vuln:references xml:lang="en" reference_type="VENDOR_ADVISORY">
       <vuln:source>BID</vuln:source>
@@ -27862,7 +27914,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-3731</vuln:cve-id>
     <vuln:published-datetime>2017-05-04T15:29:00.353-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-11-03T21:29:40.007-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:19.763-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>5.0</cvss:score>
@@ -27887,6 +27939,10 @@
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>CONFIRM</vuln:source>
       <vuln:reference href="http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html" xml:lang="en">http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html</vuln:reference>
+    </vuln:references>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>CONFIRM</vuln:source>
+      <vuln:reference href="https://security.netapp.com/advisory/ntap-20171019-0002/" xml:lang="en">https://security.netapp.com/advisory/ntap-20171019-0002/</vuln:reference>
     </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>CONFIRM</vuln:source>
@@ -28161,6 +28217,12 @@
         <cpe-lang:fact-ref name="cpe:/a:openssl:openssl:1.1.0f" />
       </cpe-lang:logical-test>
     </vuln:vulnerable-configuration>
+    <vuln:vulnerable-configuration id="http://nvd.nist.gov/">
+      <cpe-lang:logical-test operator="OR" negate="false">
+        <cpe-lang:fact-ref name="cpe:/o:debian:debian_linux:8.0" />
+        <cpe-lang:fact-ref name="cpe:/o:debian:debian_linux:9.0" />
+      </cpe-lang:logical-test>
+    </vuln:vulnerable-configuration>
     <vuln:vulnerable-software-list>
       <vuln:product>cpe:/a:openssl:openssl:0.9.7j</vuln:product>
       <vuln:product>cpe:/a:openssl:openssl:0.9.7k</vuln:product>
@@ -28258,10 +28320,12 @@
       <vuln:product>cpe:/a:openssl:openssl:1.1.0d</vuln:product>
       <vuln:product>cpe:/a:openssl:openssl:1.1.0e</vuln:product>
       <vuln:product>cpe:/a:openssl:openssl:1.1.0f</vuln:product>
+      <vuln:product>cpe:/o:debian:debian_linux:8.0</vuln:product>
+      <vuln:product>cpe:/o:debian:debian_linux:9.0</vuln:product>
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2017-3735</vuln:cve-id>
     <vuln:published-datetime>2017-08-28T15:29:01.353-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-11-05T21:29:08.977-05:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-10T21:29:01.117-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>5.0</cvss:score>
@@ -28277,15 +28341,15 @@
     <vuln:cwe id="CWE-119" />
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>CONFIRM</vuln:source>
-      <vuln:reference href="https://www.openssl.org/news/secadv/20171102.txt" xml:lang="en">https://www.openssl.org/news/secadv/20171102.txt</vuln:reference>
+      <vuln:reference href="https://security.netapp.com/advisory/ntap-20170927-0001/" xml:lang="en">https://security.netapp.com/advisory/ntap-20170927-0001/</vuln:reference>
     </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
-      <vuln:source>DEBIAN</vuln:source>
-      <vuln:reference href="https://www.debian.org/security/2017/dsa-4017" xml:lang="en">DSA-4017</vuln:reference>
+      <vuln:source>CONFIRM</vuln:source>
+      <vuln:reference href="https://security.netapp.com/advisory/ntap-20171107-0002/" xml:lang="en">https://security.netapp.com/advisory/ntap-20171107-0002/</vuln:reference>
     </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
-      <vuln:source>DEBIAN</vuln:source>
-      <vuln:reference href="https://www.debian.org/security/2017/dsa-4018" xml:lang="en">DSA-4018</vuln:reference>
+      <vuln:source>SECTRACK</vuln:source>
+      <vuln:reference href="http://www.securitytracker.com/id/1039726" xml:lang="en">1039726</vuln:reference>
     </vuln:references>
     <vuln:references xml:lang="en" reference_type="VENDOR_ADVISORY">
       <vuln:source>BID</vuln:source>
@@ -28295,15 +28359,31 @@
       <vuln:source>CONFIRM</vuln:source>
       <vuln:reference href="https://www.openssl.org/news/secadv/20170828.txt" xml:lang="en">https://www.openssl.org/news/secadv/20170828.txt</vuln:reference>
     </vuln:references>
+    <vuln:references xml:lang="en" reference_type="VENDOR_ADVISORY">
+      <vuln:source>CONFIRM</vuln:source>
+      <vuln:reference href="https://www.openssl.org/news/secadv/20171102.txt" xml:lang="en">https://www.openssl.org/news/secadv/20171102.txt</vuln:reference>
+    </vuln:references>
+    <vuln:references xml:lang="en" reference_type="VENDOR_ADVISORY">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-4017" xml:lang="en">DSA-4017</vuln:reference>
+    </vuln:references>
+    <vuln:references xml:lang="en" reference_type="VENDOR_ADVISORY">
+      <vuln:source>DEBIAN</vuln:source>
+      <vuln:reference href="https://www.debian.org/security/2017/dsa-4018" xml:lang="en">DSA-4018</vuln:reference>
+    </vuln:references>
     <vuln:summary>While parsing an IPAddressFamily extension in an X.509 certificate, it is possible to do a one-byte overread. This would result in an incorrect text display of the certificate. This bug has been present since 2006 and is present in all versions of OpenSSL before 1.0.2m and 1.1.0g.</vuln:summary>
   </entry>
   <entry id="CVE-2017-3736">
     <vuln:cve-id>CVE-2017-3736</vuln:cve-id>
     <vuln:published-datetime>2017-11-02T13:29:00.243-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-11-07T21:29:03.990-05:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:19.917-05:00</vuln:last-modified-datetime>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>BID</vuln:source>
       <vuln:reference href="http://www.securityfocus.com/bid/101666" xml:lang="en">101666</vuln:reference>
+    </vuln:references>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>CONFIRM</vuln:source>
+      <vuln:reference href="https://security.netapp.com/advisory/ntap-20171107-0002/" xml:lang="en">https://security.netapp.com/advisory/ntap-20171107-0002/</vuln:reference>
     </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>CONFIRM</vuln:source>
@@ -45434,7 +45514,11 @@
   <entry id="CVE-2017-3934">
     <vuln:cve-id>CVE-2017-3934</vuln:cve-id>
     <vuln:published-datetime>2017-10-31T10:29:00.383-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-31T21:29:01.107-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-08T21:29:02.480-05:00</vuln:last-modified-datetime>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>BID</vuln:source>
+      <vuln:reference href="http://www.securityfocus.com/bid/101695" xml:lang="en">101695</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>CONFIRM</vuln:source>
       <vuln:reference href="https://kc.mcafee.com/corporate/index?page=content&amp;id=SB10198" xml:lang="en">https://kc.mcafee.com/corporate/index?page=content&amp;id=SB10198</vuln:reference>

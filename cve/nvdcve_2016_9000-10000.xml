@@ -13091,7 +13091,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2016-9318</vuln:cve-id>
     <vuln:published-datetime>2016-11-15T19:59:00.180-05:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2016-11-29T13:02:29.873-05:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-10T21:29:00.303-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>6.8</cvss:score>
@@ -13105,6 +13105,10 @@
       </cvss:base_metrics>
     </vuln:cvss>
     <vuln:cwe id="CWE-611" />
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>GENTOO</vuln:source>
+      <vuln:reference href="https://security.gentoo.org/glsa/201711-01" xml:lang="en">GLSA-201711-01</vuln:reference>
+    </vuln:references>
     <vuln:references xml:lang="en" reference_type="VENDOR_ADVISORY">
       <vuln:source>BID</vuln:source>
       <vuln:reference href="http://www.securityfocus.com/bid/94347" xml:lang="en">94347</vuln:reference>
@@ -32522,7 +32526,7 @@
     </vuln:vulnerable-software-list>
     <vuln:cve-id>CVE-2016-9841</vuln:cve-id>
     <vuln:published-datetime>2017-05-23T00:29:01.743-04:00</vuln:published-datetime>
-    <vuln:last-modified-datetime>2017-10-23T21:29:01.297-04:00</vuln:last-modified-datetime>
+    <vuln:last-modified-datetime>2017-11-09T21:29:11.950-05:00</vuln:last-modified-datetime>
     <vuln:cvss>
       <cvss:base_metrics>
         <cvss:score>7.5</cvss:score>
@@ -32543,6 +32547,10 @@
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>CONFIRM</vuln:source>
       <vuln:reference href="https://bugzilla.redhat.com/show_bug.cgi?id=1402346" xml:lang="en">https://bugzilla.redhat.com/show_bug.cgi?id=1402346</vuln:reference>
+    </vuln:references>
+    <vuln:references xml:lang="en" reference_type="UNKNOWN">
+      <vuln:source>CONFIRM</vuln:source>
+      <vuln:reference href="https://security.netapp.com/advisory/ntap-20171019-0001/" xml:lang="en">https://security.netapp.com/advisory/ntap-20171019-0001/</vuln:reference>
     </vuln:references>
     <vuln:references xml:lang="en" reference_type="UNKNOWN">
       <vuln:source>CONFIRM</vuln:source>
